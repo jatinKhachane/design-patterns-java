@@ -1,0 +1,19 @@
+Design Patterns ✅ 
+
+Behavioural:
+- Observer - weather station problem **
+- Strategy - payment strategy pattern
+- Command - remote control problem **
+- Iterator - collection iterator problem
+- State - transportation state problem
+
+Creational
+- Singleton - app setting problem
+- Builder - house problem
+- Factory - shape factory pattern
+- Abstract Factory - button, scrollbar, window, Mac problem **
+ 
+Structural
+- Adapter - email service legacy to new
+- Decorator - pizza decorator ** 
+- Composite pattern - file system example, treating file and folder and generalised fileSystemComponent **
